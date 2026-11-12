@@ -33,15 +33,4 @@ Tổng hợp 3 nội dung trên thành cẩm nang ngắn gọn, dễ hiểu.
 - A – Action: Các bước thực hiện.
 - T – Tone: Giọng điệu.
 - E – Extras: Yêu cầu bổ sung.
-Prompt mẫu:
-Context: Bạn là giảng viên dạy lập trình C.
 
-Request: Giải thích vòng lặp for.
-
-Explanation: Giải thích cho người mới học.
-
-Action: Nêu khái niệm, cú pháp và ví dụ.
-
-Tone: Đơn giản, dễ hiểu.
-
-Extras: Có code và giải thích kết quả.
